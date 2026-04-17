@@ -1,6 +1,6 @@
 # IIQ_to_JPEG_converter
 
-A batch processing tool for converting **Phase One IIQ RAW** image files to high-quality JPEG format. Built for aerial survey workflows at DPIRD, where thousands of high-resolution captures need fast, consistent conversion with full metadata preservation.
+A batch processing tool for converting **Phase One IIQ RAW** image files to high-quality JPEG format. Built for aerial survey workflows, where thousands of high-resolution captures need fast, consistent conversion with full metadata preservation. The major advantage of the tool is that it is significantly faster compred to the existing tools like IXCapture, as this tool allows to use the maximum capabilities of the computer.
 
 The converter automatically matches the brightness and colour characteristics of the camera's original preview, producing output identical to what you see in IX Capture or other Phase One software.
 
