@@ -1,4 +1,4 @@
-# IIQ_to_JPEG_converter
+# IIQ to JPEG_converter (Batch Processing tool)
 
 A batch processing tool for converting **Phase One IIQ RAW** image files to high-quality JPEG format. Built for aerial survey workflows, where thousands of high-resolution captures need fast, consistent conversion with full metadata preservation. The major advantage of the tool is that it is significantly faster compred to the existing tools like IXCapture, as this tool allows to use the maximum capabilities of the computer.
 
